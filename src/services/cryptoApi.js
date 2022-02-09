@@ -10,8 +10,6 @@ const baseUrl = 'https://coinranking1.p.rapidapi.com';
 const createRequest = (url) => ({url, headers: CryptoApiHeaders})
 
 
-
-
 export const cryptoApi = createApi({
 reducerPath:'cryptoApi',
 
