@@ -5,6 +5,8 @@ const CryptoApiHeaders = {
     'x-rapidapi-key': 'a235a829b4mshdc70fd08ba979cdp1c66f5jsnb285d3f378a9'
 }
 
+
+
 const baseUrl = 'https://coinranking1.p.rapidapi.com';
 
 
